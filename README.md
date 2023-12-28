@@ -16,11 +16,14 @@ https://simpleicons.org/
 <h1 align='center'><samp><strong>Hello World, welcome to my Github!</strong></samp></h1>
 <p align='center'>Software Engineer | .NET Developer
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. 
+<h1 align='left'><samp><strong>Who I Am</strong></samp></h1>
+As a Vietnamese who likes daily life optimization using technology, especially automation and artificial intelligence, I'm a software engineer that is passionate for crafting robust, user-centric tehcnology solutions.
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Currently, I am pursuing the bachelor's degree in software engineering at the University of Information Technology (UIT-VNUHCM).
 
-💻 **Languages:** 🛠️<br><br>
+<h1 align='left'><samp><strong>What I Use</strong></samp></h1>
+
+**Languages:** <br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>
@@ -29,7 +32,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/>
 
-💻 **Frameworks and Technologies:** 🛠️<br><br>
+**Frameworks and Technologies:**<br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/d1d2d2"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>
@@ -38,10 +41,18 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm/#CB3837"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE"/>
 
-💻 **Database Management:** 🛠️<br><br>
+**Database Management:**<br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927"/>
+
+**Development Toolset:**<br><br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/postman/#FF6C37"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/#4D4D4D"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/#90E59A"/>
 <!--
 
 🧐 **Knowledge of:**<br>
@@ -76,10 +87,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
-
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
--->
