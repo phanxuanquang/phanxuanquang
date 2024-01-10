@@ -17,42 +17,40 @@ https://simpleicons.org/
 <p align='center'>Software Engineer | .NET Developer
 
 <h1 align='left'><samp><strong>Who I Am</strong></samp></h1>
-As a Vietnamese who likes daily life optimization using technology, especially automation and artificial intelligence, I'm a software engineer that is passionate for crafting robust, user-centric tehcnology solutions.
+As a Vietnamese who likes daily life optimization using technology, especially automation and artificial intelligence, I'm a software engineer who is passionate for crafting robust, user-centric tehcnology solutions.
 
-Currently, I am pursuing the bachelor's degree in software engineering at the University of Information Technology (UIT-VNUHCM).
+Currently, I am pursuing the bachelor's degree in Software Sngineering at the University of Information Technology (UIT-VNUHCM).
 
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
 **Languages:** <br><br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/#4EAA25"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/#4EAA25"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/>&nbsp;
 
 **Frameworks and Technologies:**<br><br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/d1d2d2"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#7952B3"/>
-<br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/npm/#CB3837"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/d1d2d2"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#7952B3"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE"/>&nbsp;
 
 **Database Management:**<br><br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927"/>&nbsp;
 
 **Development Toolset:**<br><br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/postman/#FF6C37"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/#4D4D4D"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/#90E59A"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/postman/#FF6C37"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/#4D4D4D"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/#90E59A"/>&nbsp;
 <!--
 
 🧐 **Knowledge of:**<br>
