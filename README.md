@@ -23,14 +23,11 @@ Currently, I am pursuing the bachelor's degree in Software Sngineering at the Un
 
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
-**Languages:** <br><br>
+**Programming Languages:** <br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/#4EAA25"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/>&nbsp;
 
 **Frameworks and Technologies:**<br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4"/>&nbsp;
@@ -50,7 +47,6 @@ Currently, I am pursuing the bachelor's degree in Software Sngineering at the Un
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/#4D4D4D"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/#90E59A"/>&nbsp;
 <!--
 
 🧐 **Knowledge of:**<br>
