@@ -19,7 +19,7 @@ https://simpleicons.org/
 <h1 align='left'><samp><strong>Who I Am</strong></samp></h1>
 As a Vietnamese who likes daily life optimization using technology, especially automation and artificial intelligence, I'm a software engineer who is passionate for crafting robust, user-centric tehcnology solutions.
 
-Currently, I am pursuing the bachelor's degree in Software Sngineering at the University of Information Technology (UIT-VNUHCM).
+Currently, I am pursuing the bachelor's degree in Software Engineering at the University of Information Technology (UIT-VNUHCM).
 
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
