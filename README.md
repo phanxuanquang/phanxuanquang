@@ -26,15 +26,12 @@ Currently, I am pursuing the bachelor's degree in Software Engineering at the Un
 **Programming Languages:** <br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>&nbsp;
 
 **Frameworks and Technologies:**<br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/d1d2d2"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#7952B3"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE"/>&nbsp;
 
 **Database Management:**<br><br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>&nbsp;
@@ -46,7 +43,6 @@ Currently, I am pursuing the bachelor's degree in Software Engineering at the Un
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"/>&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91"/>&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/#4D4D4D"/>&nbsp;
 <!--
 
 🧐 **Knowledge of:**<br>
