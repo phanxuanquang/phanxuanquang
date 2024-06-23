@@ -9,7 +9,7 @@
   
 </div>
 
-<h1 align='left'><samp><strong>Who I Am</strong></samp></h1>
+<h1 align='left' style='margin: 20px;' ><samp><strong>Who I Am</strong></samp></h1>
 
 <p align='left'>
   As a Vietnamese who likes daily life optimization using technology, especially automation and generative AIs, I'm a software engineer who is passionate for crafting robust, user-centric tehcnology solutions. 
@@ -35,7 +35,8 @@
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
-<a href="https://github.com/phanxuanquang">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phanxuanquang&rank_icon=github&theme=holi&hide=issues" />
+<a href="https://github.com/phanxuanquang" align='center'>
+  <img height=200 align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phanxuanquang&rank_icon=github&theme=holi&hide=issues" />
+  <br></br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&langs_count=8&card_width=437" />
 </a>
