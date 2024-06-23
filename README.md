@@ -37,5 +37,5 @@
 
 <a href="https://github.com/phanxuanquang">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phanxuanquang&rank_icon=github&theme=holi&hide=issues" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&langs_count=8&card_width=200" />
 </a>
