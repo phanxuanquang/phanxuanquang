@@ -20,14 +20,10 @@
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
 **Programming Languages:** <br><br>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>&nbsp;
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js,html)](https://skillicons.dev)
 
 **Frameworks and Technologies:**<br><br>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/express/d1d2d2"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#7952B3"/>&nbsp;
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,express,bootstrap)](https://skillicons.dev)
 
 **Database Management:**<br><br>
   <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>&nbsp;
@@ -35,9 +31,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927"/>&nbsp;
 
 **Development Toolset:**<br><br>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91"/>&nbsp;
+[![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
