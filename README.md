@@ -20,10 +20,10 @@
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
 **Programming Languages:** <br><br>
-[![Programming Languages](https://skillicons.dev/icons?i=cs,js,html)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js,html)](https://github.com/phanxuanquang)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,express,bootstrap)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,express,bootstrap)](https://github.com/phanxuanquang)
 
 **Database Management:**<br><br>
   <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>&nbsp;
@@ -31,11 +31,11 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927"/>&nbsp;
 
 **Development Toolset:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://github.com/phanxuanquang)
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
 <a href="https://github.com/phanxuanquang">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phanxuanquang&rank_icon=github&theme=holi&hide=issues" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&langs_count=8&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&langs_count=8&card_width=300" />
 </a>
