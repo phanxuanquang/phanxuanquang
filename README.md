@@ -1,4 +1,4 @@
-<h1 align='center'><samp><strong>Hello World, welcome to my realm!</strong></samp></h1>
+<h1 align='center'><samp><strong>Hello World, welcome to my lab!</strong></samp></h1>
 
 <div align='center'>
   
@@ -12,9 +12,9 @@
 <h1 align='left' style='margin: 20px;' ><samp><strong>Who I Am</strong></samp></h1>
 
 <p align='left'>
-  As a Vietnamese who likes daily life optimization using technology, especially automation and generative AIs, I'm a software engineer who is passionate for crafting robust, user-centric tehcnology solutions. 
+As a Vietnamese who likes daily life optimization using technology, I'm a software engineer who is passionate for crafting robust, user-centric tehcnology solutions. 
     
-  Driven by a passion to make meaningful differences, my ultimate goal is to craft innovative solutions that positively impact the humanity. I thrive amidst challenges that push the boundaries of my abilities, perpetually seeking opportunities to refine my skillset and embrace new knowledge. My journey is fueled by a relentless dedication to harness the power of technology and research to effect tangible changes in the world.
+Driven by the passion to make meaningful differences, I do want to craft solutions that positively impact the humanity using technology. My journey is fueled by a relentless creativity to harness the power of technology in order to effect tangible changes in the world.
 </p>
 
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
