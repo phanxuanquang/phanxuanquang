@@ -1,3 +1,4 @@
+        
 <h1 align='center'><samp><strong>Hello World, welcome to my lab!</strong></samp></h1>
 
 <div align='center'>
@@ -12,7 +13,7 @@
 <h1 align='left' style='margin: 20px;' ><samp><strong>Who I Am</strong></samp></h1>
 
 <p align='left'>
-As a Vietnamese who likes daily life optimization using technology, I'm a software engineer who is passionate for crafting robust, user-centric tehcnology solutions. 
+I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric tehcnology solutions. 
     
 Driven by the passion to make meaningful differences, I do want to craft solutions that positively impact the humanity using technology. My journey is fueled by a relentless creativity to harness the power of technology in order to effect tangible changes in the world.
 </p>
@@ -23,12 +24,7 @@ Driven by the passion to make meaningful differences, I do want to craft solutio
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,html)](https://github.com/phanxuanquang)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,express,bootstrap)](https://github.com/phanxuanquang)
-
-**Database Management:**<br><br>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/#003B57"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927"/>&nbsp;
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,bootstrap)](https://github.com/phanxuanquang)
 
 **Development Toolset:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://github.com/phanxuanquang)
