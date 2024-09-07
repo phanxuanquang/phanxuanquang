@@ -33,8 +33,6 @@ Driven by the passion to make meaningful differences, I do want to craft solutio
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
-<a href="https://github.com/phanxuanquang" align='center'>
-  <img height=200 align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phanxuanquang&rank_icon=github&theme=holi&hide=issues" />
-  <br></br>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&langs_count=8&card_width=437" />
-</a>
+<a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=phanxuanquang&theme=holi&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
+<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
+
