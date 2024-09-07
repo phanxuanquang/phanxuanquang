@@ -13,9 +13,11 @@
 <h1 align='left' style='margin: 20px;' ><samp><strong>Who I Am</strong></samp></h1>
 
 <p align='left'>
-I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric tehcnology solutions. 
+Programming is just like a tool to make my life easier and more manageable, but I do not like it at all.
+
+I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric solutions. 
     
-Driven by the passion to make meaningful differences, I do want to craft solutions that positively impact the humanity using technology. My journey is fueled by a relentless creativity to harness the power of technology in order to effect tangible changes in the world.
+Driven by the passion to make meaningful differences, I do want to craft solutions that positively impact the humanity using my creativity. My journey is fueled by a relentless creativity to harness the power of technology in order to effect tangible changes in the world.
 </p>
 
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
