@@ -26,7 +26,7 @@ Driven by the passion to make meaningful differences, I do want to craft solutio
 [![Programming Languages](https://skillicons.dev/icons?i=cs,js,html)](https://github.com/phanxuanquang)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,bootstrap)](https://github.com/phanxuanquang)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,vuejs)](https://github.com/phanxuanquang)
 
 **Development Toolset:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://github.com/phanxuanquang)
