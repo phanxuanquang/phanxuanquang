@@ -1,5 +1,6 @@
 import React from "react";
-import { Code2, Boxes, Terminal } from "lucide-react";
+import { Code2, Boxes, Database, PencilRuler } from "lucide-react";
+import { Tooltip } from "@mui/material"; // Import Tooltip từ MUI
 
 const SkillsSection = ({ isDarkMode }) => {
   const skillCategories = [
@@ -8,21 +9,18 @@ const SkillsSection = ({ isDarkMode }) => {
       icon: Code2,
       skills: [
         {
-          name: "C#",
-          level: 90,
-          icon: "🔷",
+          name: "C Sharp",
+          icon: "https://skillicons.dev/icons?i=cs",
           description: "Primary language for backend development",
         },
         {
           name: "JavaScript",
-          level: 85,
-          icon: "💛",
+          icon: "https://skillicons.dev/icons?i=js",
           description: "Frontend and Node.js development",
         },
         {
-          name: "HTML",
-          level: 88,
-          icon: "🌐",
+          name: "HTML/CSS",
+          icon: "https://skillicons.dev/icons?i=html",
           description: "Web structure and semantics",
         },
       ],
@@ -33,32 +31,74 @@ const SkillsSection = ({ isDarkMode }) => {
       skills: [
         {
           name: ".NET",
-          level: 92,
-          icon: "⚡",
+          icon: "https://skillicons.dev/icons?i=dotnet",
           description: "Enterprise application development",
         },
         {
           name: "Vue.js",
-          level: 85,
-          icon: "💚",
+          icon: "https://skillicons.dev/icons?i=vue",
+          description: "Frontend framework expertise",
+        },
+        {
+          name: "React",
+          icon: "https://skillicons.dev/icons?i=react",
+          description: "Frontend framework expertise",
+        },
+        {
+          name: "Bootstrap",
+          icon: "https://skillicons.dev/icons?i=bootstrap",
+          description: "Frontend framework expertise",
+        },
+      ],
+    },
+    {
+      title: "Database Management",
+      icon: Database,
+      skills: [
+        {
+          name: "SQL Server",
+          icon: "https://skillicons.dev/icons?i=dotnet",
+          description: "Enterprise application development",
+        },
+        {
+          name: "SQLite",
+          icon: "https://skillicons.dev/icons?i=sqlite",
+          description: "Frontend framework expertise",
+        },
+        {
+          name: "React",
+          icon: "https://skillicons.dev/icons?i=react",
+          description: "Frontend framework expertise",
+        },
+        {
+          name: "Bootstrap",
+          icon: "https://skillicons.dev/icons?i=bootstrap",
           description: "Frontend framework expertise",
         },
       ],
     },
     {
       title: "Development Tools",
-      icon: Terminal,
+      icon: PencilRuler,
       skills: [
         {
           name: "Visual Studio",
-          level: 88,
-          icon: "🎯",
+          icon: "https://skillicons.dev/icons?i=visualstudio",
           description: "Primary IDE",
         },
         {
-          name: "VS Code",
-          level: 90,
-          icon: "📝",
+          name: "Visual Studio Code",
+          icon: "https://skillicons.dev/icons?i=vscode",
+          description: "Lightweight code editing",
+        },
+        {
+          name: "Postman",
+          icon: "https://skillicons.dev/icons?i=postman",
+          description: "Lightweight code editing",
+        },
+        {
+          name: "Git",
+          icon: "https://skillicons.dev/icons?i=git",
           description: "Lightweight code editing",
         },
       ],
@@ -67,7 +107,6 @@ const SkillsSection = ({ isDarkMode }) => {
 
   return (
     <section id="skills" className="py-20 px-4 relative overflow-hidden">
-      {/* Animated background gradient */}
       <div
         className={`absolute inset-0 opacity-20 transition-opacity duration-300 ${
           isDarkMode ? "opacity-20" : "opacity-10"
@@ -76,7 +115,6 @@ const SkillsSection = ({ isDarkMode }) => {
         <div className="absolute inset-0 bg-gradient-to-br from-purple-600/30 via-blue-500/30 to-purple-600/30 animate-gradient-x" />
       </div>
 
-      {/* Main content */}
       <div className="max-w-6xl mx-auto relative z-10">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
           What I Use
@@ -90,11 +128,14 @@ const SkillsSection = ({ isDarkMode }) => {
               style={{ animationDelay: `${categoryIndex * 200}ms` }}
             >
               <div className="flex items-center justify-center mb-8 space-x-4">
-                <category.icon
-                  className={`w-8 h-8 ${
-                    isDarkMode ? "text-purple-400" : "text-purple-600"
-                  }`}
-                />
+                <Tooltip title={category.title} arrow>
+                  <category.icon
+                    className={`w-8 h-8 ${
+                      isDarkMode ? "text-purple-400" : "text-purple-600"
+                    }`}
+                  />
+                </Tooltip>
+
                 <h3
                   className={`text-2xl font-bold ${
                     isDarkMode ? "text-white" : "text-gray-800"
@@ -117,25 +158,32 @@ const SkillsSection = ({ isDarkMode }) => {
                   >
                     {/* Skill card content */}
                     <div className="relative z-10 flex flex-col items-center">
-                      {/* Skill icon */}
-                      <div
-                        className={`text-4xl mb-4 transform transition-transform duration-300 group-hover:scale-110 ${
-                          isDarkMode ? "opacity-90" : "opacity-100"
-                        }`}
-                      >
-                        {skill.icon}
-                      </div>
+                      {/* Skill icon với Tooltip */}
+                      <Tooltip title={skill.name} arrow>
+                        <div
+                          className={`text-4xl mb-4 transform transition-transform duration-300 group-hover:scale-110 ${
+                            isDarkMode ? "opacity-90" : "opacity-100"
+                          }`}
+                        >
+                          <img
+                            src={skill.icon}
+                            alt={skill.name}
+                            className="w-20 h-20"
+                          />
+                        </div>
+                      </Tooltip>
 
-                      {/* Skill name */}
-                      <h4
-                        className={`text-xl font-semibold mb-2 ${
-                          isDarkMode ? "text-white" : "text-gray-800"
-                        }`}
-                      >
-                        {skill.name}
-                      </h4>
+                      {/* Skill name với Tooltip */}
+                      <Tooltip title={skill.name} arrow>
+                        <h4
+                          className={`text-xl font-semibold mb-2 ${
+                            isDarkMode ? "text-white" : "text-gray-800"
+                          }`}
+                        >
+                          {skill.name}
+                        </h4>
+                      </Tooltip>
 
-                      {/* Skill description */}
                       <p
                         className={`text-sm text-center mb-4 ${
                           isDarkMode ? "text-gray-400" : "text-gray-600"
@@ -145,7 +193,6 @@ const SkillsSection = ({ isDarkMode }) => {
                       </p>
                     </div>
 
-                    {/* Decorative background elements */}
                     <div className="absolute inset-0 opacity-0 group-hover:opacity-10 transition-opacity duration-300">
                       <div className="absolute inset-0 bg-gradient-to-br from-purple-500 via-blue-500 to-purple-500" />
                     </div>
@@ -156,8 +203,6 @@ const SkillsSection = ({ isDarkMode }) => {
           ))}
         </div>
       </div>
-
-      {/* Decorative elements */}
       <div className="absolute top-0 left-0 w-64 h-64 bg-gradient-to-r from-purple-500/10 via-purple-300/20 to-blue-500/10 rounded-full blur-2xl z-[-1]" />
       <div className="absolute bottom-0 right-0 w-64 h-64 bg-gradient-to-r from-blue-500/10 via-blue-300/20 to-purple-500/10 rounded-full blur-3xl z-[-1]" />
 
