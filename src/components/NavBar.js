@@ -1,26 +1,15 @@
 // components/NavigationBar.js
 import React from "react";
-import {
-  Menu,
-  X,
-  Sun,
-  Moon,
-  Home,
-  User,
-  Code,
-  Brain,
-  Mail,
-} from "lucide-react";
+import { Menu, X, Sun, Moon, User, Code, Brain, Mail } from "lucide-react";
 
 const navItems = [
-  { name: "home", icon: Home },
   { name: "about", icon: User },
   { name: "projects", icon: Code },
   { name: "skills", icon: Brain },
   { name: "contact", icon: Mail },
 ];
 
-const Navbar = ({
+const NavigationBar = ({
   isMenuOpen,
   setIsMenuOpen,
   isDarkMode,
@@ -29,6 +18,13 @@ const Navbar = ({
 }) => {
   const toggleTheme = () => {
     setIsDarkMode(!isDarkMode);
+  };
+
+  const scrollToSection = (sectionId) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    }
   };
 
   return (
@@ -68,6 +64,11 @@ const Navbar = ({
                             : ""
                         }`
                   }`}
+                  
+                  onClick={(e) => {
+                    e.preventDefault(); 
+                    scrollToSection(name);
+                  }}
                 >
                   {name}
                 </a>
@@ -152,7 +153,11 @@ const Navbar = ({
                 style={{
                   transitionDelay: `${index * 100}ms`,
                 }}
-                onClick={() => setIsMenuOpen(false)}
+                onClick={(e) => {
+                  setIsMenuOpen(false);
+                  e.preventDefault(); 
+                  scrollToSection(name);
+                }}
               >
                 <div className="flex items-center space-x-3">
                   <Icon size={20} />
@@ -201,4 +206,4 @@ const Navbar = ({
   );
 };
 
-export default Navbar;
+export default NavigationBar;

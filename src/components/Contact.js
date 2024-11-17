@@ -42,8 +42,8 @@ const Contact = ({ isDarkMode }) => {
       }`}
     >
       <div className="max-w-6xl mx-auto text-center relative z-10">
-        <h2 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent animate-fade-in">
-          Get In Touch
+        <h2 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent animate-fade-in">
+          How To Reach Me
         </h2>
 
         <p
@@ -51,7 +51,7 @@ const Contact = ({ isDarkMode }) => {
             isDarkMode ? "text-gray-300" : "text-gray-600"
           }`}
         >
-          I'm always open to discussing new projects, creative ideas, or
+          I'm always open to discussing about innovative ideas, or job
           opportunities to create meaningful impact through technology.
         </p>
 
