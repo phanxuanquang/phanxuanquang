@@ -17,7 +17,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "AskDB",
         thumbnailUrl:
-          "https://camo.githubusercontent.com/25c52e7d15be484da21b13cd60f5a126bc9121af1e82209072e38fe2080907c4/68747470733a2f2f692e696d6775722e636f6d2f69303074494c712e706e67",
+          "https://i.imgur.com/Q1JeIVa.png",
         description:
           "Revolutionize the way we interact with SQL databases using Generative AI",
         topLanguages: [
@@ -34,7 +34,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "EngAce",
         thumbnailUrl:
-          "https://private-user-images.githubusercontent.com/84692657/350364349-9b2c68a8-0ba2-4655-9c7f-3ce227c8eb86.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4MzI1NTAsIm5iZiI6MTczMTgzMjI1MCwicGF0aCI6Ii84NDY5MjY1Ny8zNTAzNjQzNDktOWIyYzY4YTgtMGJhMi00NjU1LTljN2YtM2NlMjI3YzhlYjg2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE3VDA4MzA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2YjExNWEyY2NjZmFmNWYzOGRhN2Y2YTA2MmI2N2ZmNjhhZDI4NTExMDBkZWM5ZDA0ZmQ4ZGNmZGM0NWZlOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EgcuYVGIUS9fHX4WSeWiAOMf_x1-oXCX_JNNWQaWVmk",
+          "https://i.imgur.com/s6sYVkr.png",
         description:
           "Personalize the way Vietnamese learn English using generative AI",
         topLanguages: [
@@ -51,7 +51,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "Adobe-Camera-Profiles-Unlocker",
         thumbnailUrl:
-          "https://camo.githubusercontent.com/efa414141ebf5d495c52b4a0ce47d049c71933f3fd7747557b58c1f79d89d636/68747470733a2f2f692e696d6775722e636f6d2f63624e417079692e706e67",
+          "https://i.imgur.com/zLam98v.png",
         description:
           "Unlock the hidden Camera Profiles in the Adobe Lightroom and Adobe Camera Raw",
         topLanguages: [
@@ -82,7 +82,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "AI-Composer",
         thumbnailUrl:
-          "https://camo.githubusercontent.com/a1f40a931ebbef2825f2ee62707b45e91964cab0f8ff13fc219173741e0f678c/68747470733a2f2f692e696d6775722e636f6d2f5843316d3337372e6a706567",
+          "https://i.imgur.com/C7NTZv6.jpeg",
         description:
           "An AI assistant can help you with content composition right in your Microsoft Word",
         topLanguages: [
@@ -98,7 +98,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "AI-Handbook",
         thumbnailUrl:
-          "https://camo.githubusercontent.com/4b3d6cabac7aa6dc5e2c340b36879f6a4e5ef65c697d528cd1abd5696dd81d71/68747470733a2f2f692e696d6775722e636f6d2f61515964717a6a2e706e67",
+          "https://i.imgur.com/cRtRRE1.png",
         description:
           "The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)",
         topLanguages: ["JavaScript", "LLM", "RESTful API"],
