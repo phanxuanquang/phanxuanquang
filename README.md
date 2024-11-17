@@ -13,7 +13,6 @@
 <h1 align='left' style='margin: 20px;' ><samp><strong>Who I Am</strong></samp></h1>
 
 <p align='left'>
-Programming is just like a tool to make my life easier and more manageable, but I do not like it at all.
 
 I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric solutions. 
     
