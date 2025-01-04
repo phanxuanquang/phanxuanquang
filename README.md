@@ -22,10 +22,10 @@ Driven by the passion to make meaningful differences, I do want to craft solutio
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
 **Programming Languages:** <br><br>
-[![Programming Languages](https://skillicons.dev/icons?i=cs,js,html)](https://github.com/phanxuanquang)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js)](https://github.com/phanxuanquang)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,vuejs)](https://github.com/phanxuanquang)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,react)](https://github.com/phanxuanquang)
 
 **Development Toolset:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://github.com/phanxuanquang)
