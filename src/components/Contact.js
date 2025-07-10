@@ -21,7 +21,7 @@ const Contact = ({ isDarkMode }) => {
     {
       name: "Discord",
       icon: MessageCircle,
-      url: "https://discordcom/users/hackkiemsi",
+      url: "https://discord.com/users/hackkiemsi",
       color: "hover:text-indigo-500",
       delay: 300,
     },
