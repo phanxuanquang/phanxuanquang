@@ -17,16 +17,16 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "AskDB",
         thumbnailUrl:
-          "https://i.imgur.com/Q1JeIVa.png",
+          "https://private-user-images.githubusercontent.com/84692657/452805316-fff9f171-28b3-439c-82a7-46aa509f1ad6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxNjk2NTQsIm5iZiI6MTc1MjE2OTM1NCwicGF0aCI6Ii84NDY5MjY1Ny80NTI4MDUzMTYtZmZmOWYxNzEtMjhiMy00MzljLTgyYTctNDZhYTUwOWYxYWQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDE3NDIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0YmFhNzMyZGJmZGY1MjY4ODExMWZkYjhlNWMzYzEyNmQ4ZjY0YTUxNTYzMTI3YTc4ZDViMzU5OTViNTBhN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a5_eEvClS8lfpX-mSfNtbm-HnAuPS77sF1lJy-QpcVQ",
         description:
-          "Revolutionize the way we interact with SQL databases using Generative AI",
+          "Communicate with SQL databases using your daily-life language",
         topLanguages: [
           "C#",
           "SQL",
           "XAML",
           "WinUI 3",
           "LLM",
-          "Prompt Engineering",
+          "AI Agent"
         ],
         stars: 98,
         forks: 23,
@@ -34,7 +34,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "EngAce",
         thumbnailUrl:
-          "https://i.imgur.com/s6sYVkr.png",
+          "https://camo.githubusercontent.com/0cf9f2d9784f74ea26d1ba196a81c3122dbafc31e38b349dbdeea000496f44d6/68747470733a2f2f692e696d6775722e636f6d2f6e7439385132322e706e67",
         description:
           "Personalize the way Vietnamese learn English using generative AI",
         topLanguages: [
@@ -65,46 +65,17 @@ const ProjectsSection = ({ isDarkMode }) => {
         forks: 18,
       },
       {
-        name: "XCan-AI",
-        thumbnailUrl: "https://i.imgur.com/dVCQuCl.png",
-        description: "Simplify the way we extract text from image using AI",
+        name: "VNPAY.NET",
+        thumbnailUrl: "https://camo.githubusercontent.com/0fc6c6ae01db639607d05de136732f25e520e9ab7ad0d66b3932408cdc7d2c9c/68747470733a2f2f692e696d6775722e636f6d2f675369367376522e706e67",
+        description: "VNPAY payment integration library used for .NET",
         topLanguages: [
           "C#",
-          "JavaScript",
-          "ASP.NET Core",
-          "React",
-          "LLM",
-          "Prompt Engineering",
+          ".NET",
+          "ASP.NET Core"
         ],
         stars: 7,
         forks: 6,
-      },
-      {
-        name: "AI-Composer",
-        thumbnailUrl:
-          "https://i.imgur.com/C7NTZv6.jpeg",
-        description:
-          "An AI assistant can help you with content composition right in your Microsoft Word",
-        topLanguages: [
-          "C#",
-          "Windows Forms",
-          "VSTO",
-          "LLM",
-          "Prompt Engineering",
-        ],
-        stars: 11,
-        forks: 5,
-      },
-      {
-        name: "AI-Handbook",
-        thumbnailUrl:
-          "https://i.imgur.com/cRtRRE1.png",
-        description:
-          "The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)",
-        topLanguages: ["JavaScript", "LLM", "RESTful API"],
-        stars: 18,
-        forks: 0,
-      },
+      }
     ];
 
     try {
@@ -185,7 +156,7 @@ const ProjectsSection = ({ isDarkMode }) => {
     >
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent animate-fade-in">
-          What I Have Achieved
+          My Feature Open-Source Projects
         </h2>
 
         <div className="relative animate-fade-in">
