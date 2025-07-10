@@ -49,14 +49,10 @@ const About = ({ isDarkMode }) => {
                 isDarkMode ? "text-gray-300" : "text-gray-600"
               }`}
             >
-              I am a software engineer with a strong background in .NET,
-              specializing in integrating backend services and generative
-              AI-based solutions. I prioritize performance, security, and system
-              optimization in all of my work. I have much experience working
-              with designing relational database, cloud services, and deploying
-              scalable solutions. I have also focused on leveraging emerging
-              technologies such as LLM and cloud computing to drive innovation
-              and deliver high-impact technology solutions.
+              I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric solutions. 
+                Driven by the passion to make meaningful differences, I do want to craft solutions that positively impact the humanity using my creativity. 
+                My journey is fueled by a relentless creativity to harness the power of technology in order to effect tangible changes in the world.
+                I am always open to exciting job opportunities and innovative projects in the areas of generative AI and SaaS development. You are welcome to reach out to me through the contact details listed above for further discussion.
             </p>
           </div>
 
