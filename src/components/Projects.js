@@ -17,7 +17,7 @@ const ProjectsSection = ({ isDarkMode }) => {
       {
         name: "AskDB",
         thumbnailUrl:
-          "https://private-user-images.githubusercontent.com/84692657/452805316-fff9f171-28b3-439c-82a7-46aa509f1ad6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxNjk2NTQsIm5iZiI6MTc1MjE2OTM1NCwicGF0aCI6Ii84NDY5MjY1Ny80NTI4MDUzMTYtZmZmOWYxNzEtMjhiMy00MzljLTgyYTctNDZhYTUwOWYxYWQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDE3NDIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0YmFhNzMyZGJmZGY1MjY4ODExMWZkYjhlNWMzYzEyNmQ4ZjY0YTUxNTYzMTI3YTc4ZDViMzU5OTViNTBhN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a5_eEvClS8lfpX-mSfNtbm-HnAuPS77sF1lJy-QpcVQ",
+          "https://i.postimg.cc/TGwYDP8R/452805467-27070960-6682-4acc-87d4-a75110ccb602.jpg",
         description:
           "Communicate with SQL databases using your daily-life language",
         topLanguages: [
